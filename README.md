@@ -1,8 +1,8 @@
 ## Hello! Eu sou a Luana Garcia 
 <div align="center">
   <a href="https://github.com/LuanaGarcia">
-<img width="400px" height="140em" src="https://github-readme-stats.vercel.app/api?username=LuanaGarcia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="350px" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaGarcia&layout=compact&langs_count=6&theme=dracula"/>
+<img width="450px" height="140em" src="https://github-readme-stats.vercel.app/api?username=LuanaGarcia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="400px" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaGarcia&layout=compact&langs_count=6&theme=dracula"/>
 </div>
   
  ## Aprendendo
