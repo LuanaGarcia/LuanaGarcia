@@ -1,11 +1,15 @@
 ## Hello! Eu sou a Luana Garcia 
-<div align="center">
+</section>
+<section>
+  </br>
   <a href="https://github.com/LuanaGarcia">
-<img width="500px" height="180px" src="https://github-readme-stats.vercel.app/api?username=LuanaGarcia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="500px" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaGarcia&layout=compact&langs_count=6&theme=dracula"/>
-</div> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanaGarcia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaGarcia&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="295em"  src="https://activity-graph.herokuapp.com/graph?username=LuanaGarcia&theme=dracula"/>
+</section>
+<section>
   
-## Aprendendo
+  ## Aprendendo
 <div style="display: inline_block"><br>
   <img align="center" alt="Luana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luana-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
