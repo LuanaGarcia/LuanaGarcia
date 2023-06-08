@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EE82EE&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Luana+Garcia;I'm+23+years+old;I'm+from+Brazil;I+Graduated+in+Production+Engineering;Studying+Systems+Analysis+and+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuanaGarcia&show_icons=true&count_private=true&hide_border=true&title_color=EE82EE&icon_color=EE82EE&text_color=c9d1d9&bg_color=0d1117" alt="Luana Garcia github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaGarcia&layout=compact&hide_border=true&title_color=EE82EE&text_color=EE82EE&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api username=LuanaGarcia&show_icons=true&count_private=true&hide_border=true&title_color=EE82EE&icon_color=EE82EE&text_color=c9d1d9&bg_color=0d1117" alt="Luana Garcia github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/ username=LuanaGarcia&layout=compact&hide_border=true&title_color=EE82EE&text_color=EE82EE&bg_color=0d1117" />
 </div>
 
 <div align="center"> 
