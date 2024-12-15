@@ -7,7 +7,7 @@
 </header>
 
 <body>
-    <img class="Most_Used_Languages" width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaGarcia&include_all_commits=true&count_private=true&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+    <img class="Most_Used_Languages" width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaGarcia&include_all_commits=true&count_private=true&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
     </section>
     <section class="Contato" align="center"> 
         <a class="Instagram" href="https://instagram.com/luana._garcia?igshid=ZDdkNTZiNTM=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 30px" ></a>
